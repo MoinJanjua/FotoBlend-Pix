@@ -56,6 +56,3 @@ For any questions or support, please contact:
 ## Download
 [**Download FotoBlend Pix on the App Store**](https://apps.apple.com/us/app/fotoblend-pix/id6738649263)
 
----
-
-This README file includes all the app details along with the screenshot and download link. Let me know if you’d like any additional modifications!
